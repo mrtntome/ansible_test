@@ -1,3 +1,7 @@
+[Servers]
 ubuntu.ans1.lan
 ubuntu.ans2.lan
 ubuntu.ans3.lan
+
+[Desktop]
+xubuntu.ans.lan
